@@ -3,7 +3,7 @@
 ## Datos del participante
 - Nombre y apellido: Luca Moizello
 - Curso: Introducción a Git y GitHub para la Gestión de Proyectos Digitales
-- Fecha de entrega: YYYY-MM-DD
+- Fecha de entrega: 2026-09-10
 
 ## Enlaces
 - Repositorio de GitHub: https://github.com/lucamoizello26-ctrl/tp-integrador-git-moizello-luca
