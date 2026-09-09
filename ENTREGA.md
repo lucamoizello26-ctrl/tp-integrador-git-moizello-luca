@@ -8,7 +8,7 @@
 ## Enlaces
 - Repositorio de GitHub: https://github.com/lucamoizello26-ctrl/tp-integrador-git-moizello-luca
 - Issue: https://github.com/lucamoizello26-ctrl/tp-integrador-git-moizello-luca/issues/1
-- Pull request: https://github.com/TU_USUARIO/tp-integrador-git-tuapellido-tunombre/pull/1
+- Pull request: https://github.com/lucamoizello26-ctrl/tp-integrador-git-moizello-luca/pull/2
 
 ## Comandos principales utilizados
 - `git init`: Inicialización del repositorio local.
